@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Blayzer (or Nick lol) and I am currently studing to become a computer engineer.
+My name is Blayzer (or Nick) and I am currently studing to become a computer engineer.
 # Contact me:
 Discord: Blayzer#0002
 <!--
