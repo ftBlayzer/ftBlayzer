@@ -1,7 +1,6 @@
 ### Hi there 👋
 # Contact me:
 Discord: Blayzer#0002
------------------------
 <!--
 **ftBlayzer/ftBlayzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
